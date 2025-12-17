@@ -1,0 +1,5 @@
+{
+  "name": "VectorVibe - Cosine Similarity",
+  "description": "An interactive tool to calculate and visualize cosine similarity between vectors using the dot product, featuring AI-powered semantic vector generation and analysis.",
+  "requestFramePermissions": []
+}
